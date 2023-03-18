@@ -1,6 +1,8 @@
 ## Zebra-Printer_How to View Data that Printer Recieved from Host
 ## プリンタがホストから受信したデータをキャプチャする方法
-
+</br>
+プリンタが想定外の動作した場合、まず確認すべきことはプリンタに何のデータを受信したか確認すること。このリポジトリでは受信データをキャプチャし、参照する方法を説明する。
+</br>
 1. プリンタに対して下記コマンドを実行する。
 <pre>
 ! U1 setvar "input.capture" "run"
