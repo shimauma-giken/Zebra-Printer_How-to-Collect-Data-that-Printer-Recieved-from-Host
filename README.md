@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/111269302/226099381-5ca70d9e-5694-490e-8a46-821c9cedeb31.png)
 
 </br>
-DMPファイルはFTPを用いてダウンローすることも可能。(Default - User:zebra/ Pass:1234)  
+DMPファイルはFTPやZebraNetBridegeを用いてダウンローすることも可能。(Default - User:zebra/ Pass:1234)  
 
 ![image](https://user-images.githubusercontent.com/111269302/226099829-ef3d3f45-c5e2-4dfb-924d-d339dd60829d.png)
 
